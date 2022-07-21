@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="674dc77d-f3a7-488f-ae80-645bde43e003" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zooniverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/zooniverse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +37,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/alber/Desktop/GitHub/ZooniverseTest",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "preferences.sourceCode.Markdown"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.teste">
+  <component name="RunManager" selected="Python.zooniverse">
     <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ZooniverseTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,8 +85,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.teste" />
         <item itemvalue="Python.zooniverse" />
+        <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
   </component>
