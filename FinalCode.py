@@ -1,3 +1,5 @@
+# Referencia: https://github.com/PmasonFF/Zooniverse-data-digging/blob/master/Panoptes_client_examples/subject_uploader_fixed_resize.py
+
 
 import os
 import io

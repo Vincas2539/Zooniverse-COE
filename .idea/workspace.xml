@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="674dc77d-f3a7-488f-ae80-645bde43e003" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FinalCode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imagens/Logo Bluemind Só o B Branco - Copia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imagens/Logo Bluemind Só o B Branco.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imagens/Logo Bluemind Só o B Preto - Copia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imagens/Logo Bluemind Só o B Preto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imagens/Logo Bluemind Todo Branco - Copia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imagens/Logo Bluemind Todo Branco.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imagens/Logo Bluemind Todo Preto - Copia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imagens/Logo Bluemind Todo Preto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zooniverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/zooniverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalCode.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
