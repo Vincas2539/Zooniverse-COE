@@ -1,7 +1,7 @@
 from panoptes_client import Panoptes, Project, Subject, SubjectSet
 import os
 
-Panoptes.connect(username='Vincas2539', password='Simagivi@123')
+Panoptes.connect(username='******', password='******')
 
 project = Project(18892)
 print(project.display_name)
