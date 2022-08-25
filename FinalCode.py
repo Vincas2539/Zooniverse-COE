@@ -27,7 +27,7 @@ def compress(original_location, original_file, resized_width):
 
 nome = input('Input your username on zooniverse: ')
 senha = input('Input your password on zooniverse: ')
-projeto = input('Insert the project required id: ')
+projeto = input('Insert the project required id: ')  # 18892
 
 #  connect to zoniverse - requires the User_name and Password to be set up as environmental variables in your OS
 Panoptes.connect(username=nome, password=senha)
@@ -96,6 +96,7 @@ for filename, metadata in subject_metadata.items():
             subject.save()
             subject_set.add(subject.id)
             new_subjects += 1
+            print("Uploaded: ", new_subjects, "\n")
     except panoptes_client.panoptes.PanoptesAPIException:
         print('An error occurred during the upload of ', filename)
 print(new_subjects, 'new subjects created and uploaded')
